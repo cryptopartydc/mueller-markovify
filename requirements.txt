@@ -1,0 +1,5 @@
+markovify==0.7.1
+pip==19.0.3
+setuptools==41.0.1
+Unidecode==1.0.23
+wheel==0.33.1 
