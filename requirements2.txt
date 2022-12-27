@@ -1,4 +1,4 @@
 pdfminer==20140328
 pip==19.0.3
-setuptools==41.0.1
+setuptools==65.5.1
 wheel==0.33.1
